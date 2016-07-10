@@ -7,9 +7,9 @@ Examples of how to consume [Iso-Lib][].
 
 Contents:
 
-- `example-provider-lib`: Default project generated from Yeoman generator.
-- `example-consumer-browser`: Examples consuming `example-provider-lib` from browser.
-- `example-consumer-node`: Example consuming `example-provider-lib` from Node.js.
+- [`example-provider-lib`](./example-provider-lib): Default project generated from Yeoman generator.
+- [`example-consumer-browser`](./example-consumer-browser): Examples consuming `example-provider-lib` from browser.
+- [`example-consumer-node`](./example-consumer-node): Example consuming `example-provider-lib` from Node.js.
 
 ## Usage
 
