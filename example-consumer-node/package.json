@@ -1,0 +1,8 @@
+{
+  "name": "example-consumer-node",
+  "version": "1.0.0",
+  "description": "Example consumer on Node.js",
+  "main": "index.js",
+  "author": "Corey Ferguson <corey.t.ferguson@gmail.com>",
+  "license": "MIT"
+}
