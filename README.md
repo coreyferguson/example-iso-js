@@ -3,7 +3,7 @@
 
 ## Summary
 
-These are examples of how to consume [Iso-Lib][].
+Examples of how to consume [Iso-Lib][].
 
 Contents:
 
