@@ -1,6 +1,6 @@
 {
   "name": "example-consumer-browser",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Example consumers on browser: AMD and global context",
   "main": "server/index.js",
   "author": "Corey Ferguson <corey.t.ferguson@gmail.com>",

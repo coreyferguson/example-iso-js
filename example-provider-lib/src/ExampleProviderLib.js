@@ -4,7 +4,9 @@
 import ExampleComponent from './ExampleComponent';
 
 /**
- * Example library to be consumed in Node.js and Browser.
+ * @class ExampleProviderLib
+ * @description
+ * Examples of how to consume Iso-Lib
  *
  * @example
  * var ExampleProviderLib = require('example-provider-lib');

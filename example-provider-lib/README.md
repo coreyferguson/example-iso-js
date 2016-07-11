@@ -3,7 +3,7 @@
 
 ## Summary
 
-Example library to be consumed in Node.js and Browser.
+Examples of how to consume Iso-Lib
 
 ## Consumer Usage
 

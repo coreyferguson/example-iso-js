@@ -1,7 +1,7 @@
 {
   "name": "example-provider-lib",
   "version": "0.1.0",
-  "description": "Example library to be consumed in Node.js and Browser.",
+  "description": "Examples of how to consume Iso-Lib",
   "main": "dist/example-provider-lib-commonjs2.min.js",
   "scripts": {
     "test": "grunt test:single"
